@@ -1,4 +1,4 @@
-# Estudo de Iluminação — Galpão 3D
+# Estudo de Iluminação — Galpão 3D - Davi Carvalho da Silva Clemente | Gustavo Teixeira Marques | Luan Henrique
 
 Este documento apresenta configurações de iluminação aplicadas a uma cena de galpão 3D. O objetivo é observar como o tipo, a posição, a cor, a intensidade, o alcance e as sombras das fontes de luz alteram a aparência do ambiente.
 
